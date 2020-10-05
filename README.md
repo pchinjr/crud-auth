@@ -1,2 +1,0 @@
-# crud-auth
-Begin app
